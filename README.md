@@ -1,4 +1,4 @@
-# bookmark기
+# bookmark
 기억하고 싶은 개발 관련 링크들을 기록합니다.
 
 ## content
