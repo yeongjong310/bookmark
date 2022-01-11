@@ -11,6 +11,7 @@
 - [Must-Know-About-Frontend(취준생이 반드시 알아야 할 프론트엔드 지식)](https://github.com/baeharam/Must-Know-About-Frontend)
 - [You-Dont-Know-JS](https://github.com/yeongjong310/You-Dont-Know-JS)
 - [모던-자바스크립트-Deep-dive](https://poiemaweb.com/)
+- [자바스크립트에서 팩터리함수란 무엇인가?](https://ui.toast.com/weekly-pick/ko_20160905)
 
 ### CSS
 - [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
