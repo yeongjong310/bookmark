@@ -28,3 +28,4 @@
 - [clean code](https://github.com/qkraudghgh/clean-code-javascript-ko)
 - [OOP 상속과 조합](https://steady-coding.tistory.com/451)
 - [프론트엔드 미래](https://velog.io/@teo/frontend)
+- [https 통신 원리](https://nuritech.tistory.com/25)
