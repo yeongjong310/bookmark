@@ -20,6 +20,7 @@
 ### React
 - [Container&Presentational](https://velog.io/@ouo_yoonk/presentational-container-%ED%8C%A8%ED%84%B4)
 - [리엑트 작동 방법(reconciler)](https://d2.naver.com/helloworld/9297403)
+- [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
 
 ### Chrome
 - [천천히_읽어보는_Chrome_개발자_도구_설명서](https://rlxuc0ppd.toastcdn.net/presentation/%5BNHN%20FORWARD%202020%5D%EC%B2%9C%EC%B2%9C%ED%9E%88%20%EC%9D%BD%EC%96%B4%20%EB%B3%B4%EB%8A%94%20Chrome%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%8F%84%EA%B5%AC%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
