@@ -31,3 +31,5 @@
 - [프론트엔드 미래](https://velog.io/@teo/frontend)
 - [https 통신 원리](https://nuritech.tistory.com/25)
 - [blob](https://heropy.blog/2019/02/28/blob/)
+- [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
+- [오브젝트](https://book.naver.com/bookdb/book_detail.naver?bid=15007773)
