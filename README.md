@@ -33,3 +33,4 @@
 - [blob](https://heropy.blog/2019/02/28/blob/)
 - [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 - [오브젝트](https://book.naver.com/bookdb/book_detail.naver?bid=15007773)
+- [웹 스트림](https://ui.toast.com/weekly-pick/ko_20160222#fastest)
