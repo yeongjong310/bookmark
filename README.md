@@ -34,3 +34,4 @@
 - [DDD Start!](https://book.naver.com/bookdb/book_detail.nhn?bid=10615650)
 - [오브젝트](https://book.naver.com/bookdb/book_detail.naver?bid=15007773)
 - [웹 스트림](https://ui.toast.com/weekly-pick/ko_20160222#fastest)
+- [좋은 코드란 무엇인가?](https://jbee.io/etc/what-is-good-code/#%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%83%81%ED%99%A9%EB%93%A4%EC%9D%84-%EB%A7%88%EC%A3%BC%ED%95%98%EA%B2%8C-%EB%90%98%EB%8A%94%EA%B0%80)
